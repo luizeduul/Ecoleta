@@ -18,7 +18,7 @@
    <a href="https://github.com/luizeduul/Ecoleta/tree/master/Ecoleta">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 <h2>Descrição</h2>
-  Será adicionado posteriormente
+  <p>Será adicionado posteriormente </p>
 ## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
   - [Typescript]
