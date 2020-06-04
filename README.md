@@ -12,7 +12,7 @@
 <p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas</p><br>
  <p>
    <a href="https://github.com/luizeduul/Ecoleta/tree/master/backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/luizeduul/Ecoleta/tree/master/web">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="https://github.com/luizeduul/Ecoleta/tree/master/frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/luizeduul/Ecoleta/tree/master/Ecoleta">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
  </p>
 <h2>Descrição</h2>
