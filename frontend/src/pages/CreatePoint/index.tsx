@@ -6,6 +6,8 @@ import { FiArrowLeft } from 'react-icons/fi';
 import axios from 'axios';
 import Logo from '../../assets/logo.svg';
 import api from '../../services/api';
+
+import Dropzone from '../../components/Dropzone';
 import './styles.css';
 
 
@@ -39,6 +41,7 @@ const CreatePoint = () => {
   const [selectedItems, setSelectedItems] = useState<number[]>([]);
   const [initialPosition, setInitialPosition] = useState<[number, number]>([0, 0]);
   const [selectedPosition, setSelectetPosition] = useState<[number, number]>([0, 0]);
+  const [selectedFile, setSelectedFile] = useState<File>();
 
   const history = useHistory();
 
@@ -112,24 +115,29 @@ const CreatePoint = () => {
     })
   }
 
-  async function handleSubmit(event: FormEvent){
+  async function handleSubmit(event: FormEvent) {
     event.preventDefault();
-    const {name, email, whatsapp} = formData;
+
+    const { name, email, whatsapp } = formData;
     const uf = selectedUf;
     const city = selectedCity;
     const [latitude, longitude] = selectedPosition;
     const items = selectedItems;
 
-    const data = {
-      name, 
-      email, 
-      whatsapp,
-      city,
-      uf,
-      latitude, 
-      longitude,
-      items
+    const data = new FormData();
+    data.append('name', name);
+    data.append('email', email);
+    data.append('whatsapp', whatsapp);
+    data.append('city', city);
+    data.append('uf', uf);
+    data.append('latitude', String(latitude));
+    data.append('longitude', String(longitude));
+    data.append('items', items.join(','));
+
+    if(selectedFile){
+      data.append('image', selectedFile);
     }
+
     await api.post('points', data);
 
     alert('Ponto de coleta Criado');
@@ -148,6 +156,8 @@ const CreatePoint = () => {
       </header>
       <form onSubmit={handleSubmit}>
         <h1>Cadastro do <br /> Ponto de coleta</h1>
+        <Dropzone onFileUploaded={setSelectedFile} />
+
         <fieldset>
           <legend>
             <h2>Dados</h2>
