@@ -43,7 +43,7 @@ const Points = () => {
   const routeParams = route.params as Params;
 
   useEffect(() => {
-    async function loadPosition() {
+    async function loadPosition(): Promise<void>{
       const { status } = await Location.requestPermissionsAsync();
 
       if (status !== "granted") {

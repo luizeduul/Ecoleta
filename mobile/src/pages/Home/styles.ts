@@ -28,18 +28,14 @@ export default StyleSheet.create({
     lineHeight: 24,
   },
 
-  footer: {},
+  footer: {
+    flexDirection: 'column',
+    justifyContent: 'center',
+    marginBottom: 16,
+    marginTop: -32
+  },
 
   select: {},
-
-  input: {
-    height: 60,
-    backgroundColor: '#FFF',
-    borderRadius: 10,
-    marginBottom: 8,
-    paddingHorizontal: 24,
-    fontSize: 16,
-  },
 
   button: {
     backgroundColor: '#34CB79',
@@ -48,7 +44,7 @@ export default StyleSheet.create({
     borderRadius: 10,
     overflow: 'hidden',
     alignItems: 'center',
-    marginTop: 8,
+    marginTop: 32,
   },
 
   buttonIcon: {
