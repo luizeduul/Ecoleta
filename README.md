@@ -1,4 +1,6 @@
-<h1 align="center">Ecoleta</h1>
+<h1 align="center">
+  <img alt="Ecoleta" src=".github/eco.png" width="250px" />
+</h1>
 
 <p align="center">
  <img alt="Repository size" src="https://img.shields.io/github/repo-size/luizeduul/Ecoleta">
@@ -11,14 +13,34 @@
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
 <p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas abaixo</p><br>
-<stront>Lembre-se de ajustar os endereços de ip para o da sua máquina local.</strong>
- <p>
-   <a href="https://github.com/luizeduul/Ecoleta/tree/master/backend" target="_blank" rel="noopener noreferrer">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/luizeduul/Ecoleta/tree/master/frontend" target="_blank" rel="noopener noreferrer">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/luizeduul/Ecoleta/tree/master/mobile" target="_blank" rel="noopener noreferrer">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- </p>
+<p>
+  <a href="https://github.com/luizeduul/Ecoleta/tree/master/backend" target="_blank" rel="noopener noreferrer">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luizeduul/Ecoleta/tree/master/frontend" target="_blank" rel="noopener noreferrer">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/luizeduul/Ecoleta/tree/master/mobile" target="_blank" rel="noopener noreferrer">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<p>Lembre-se de ajustar os endereços de ip para o da sua máquina local.</p>
 <h2>Descrição</h2>
-  <p>A aplicação Ecoleta, tem por objetivo o cadastro e identificação de empresas que possuem pontos de coleta de resíduos ("Pilhas, eletrônicos, lâmpadas, etc"). Permitindo a quem possua o aplicativo, ter acesso a localização dessas empresas, se tornando mais fácil encontrar e realizar o descarte desses materiais de forma correta.</p>
+<p>A aplicação Ecoleta, tem por objetivo o cadastro e identificação de empresas que possuem pontos de coleta de resíduos ("Pilhas, eletrônicos, lâmpadas, etc"). Permitindo a quem possua o aplicativo, ter acesso a localização dessas empresas, se tornando mais fácil encontrar e realizar o descarte desses materiais de forma correta.</p>
+
+<p>
+  <p>Foi utilizado a api do IBGE na página web e no aplicativo para servir os estados e municípios. Para mais informações e documentação, acesse o endereço da api.</p>
+  <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-_" target="_blank" rel="noopener noreferrer">Clicando aqui</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<h2>Previews do projeto</h2>
+
+## Web
+
+<p align="center">
+  <img alt="webversion" src=".github/frontend.gif"/>
+</p>
+
+## Mobile
+
+<p align="center">
+  <img alt="mobile" src=".github/mobile.gif"/>
+</p>
 
 ## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:

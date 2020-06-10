@@ -16,8 +16,8 @@
      yarn dev -> para rodar o script de desenvolvimento.
   </p>
    
-<p>Também será necessário rodar as migrations para criar as tabelas da base de dados com o comando <strong>yarn knex:migrate</strong>
-<p>E popular a tabela de items com o comando: <strong>yarn knex:seed</strong>
+<p>Também será necessário rodar as migrations para criar as tabelas da base de dados com o comando <strong> yarn knex:migrate </strong></p>
+<p>E popular a tabela de items com o comando: <strong> yarn knex:seed </strong></p>
 <p>Mais informações consulte a documentação do knexJS <a href="http://knexjs.org/" target="_blank" rel="noopener noreferrer">Clicando aqui</a></p>
    
 <p>Para fazer o teste da api, utilize o insomnia que exportei um arquivo das rotas, está na raiz da pasta backend</p>

@@ -5,15 +5,18 @@
  
 <p>Faça a instalação das dependencias do projeto. Com yarn ou npm.</p>
 
-  ## yarn -> yarn install 
+## yarn -> yarn install 
   
-    ou 
+<p>ou</p>
     
-  ## npm -> npm install
+## npm -> npm install
   
 <p>Para rodar seu app, você precisará baixar o app do Expo na Playstore ou Apple store.</p>
-<p>  
-    yarn start or expo start -> se tudo tiver dado certo, irá abrir no navegador: a pagina do expo com um qr code. Abra o app do expo no seu smartphone e faça o scan do qr code. Feito isso o seu aplicativo irá carregar em seu dispositivo.
-</p>
-<p> ** Deixe o servidor do backend rodando antes de executar o comando acima</p>
+
+<p>E executar o comando abaixo pra rodar o projeto com o expo</p>
+
+# expo start
+
+<p>Se tudo der certo, irá abrir no navegador: a pagina do expo com um QR code. Abra o app do expo no seu smartphone e faça o scan do qr code. Feito isso o seu aplicativo irá carregar em seu dispositivo.</p>
+<p> ** É importante deixar o backend rodando quando for executar o projeto mobile.</p>
    
