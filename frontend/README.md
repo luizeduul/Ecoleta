@@ -5,15 +5,15 @@
  
 <p>Faça a instalação das dependencias do projeto. Com yarn ou npm.</p>
 
-  ## yarn -> yarn install 
-  
-    ou 
+ ## yarn -> yarn install 
+
+<p>ou</p>
     
-  ## npm -> npm install
+## npm -> npm install
   
 <p>Após completar toda a instalação, execute o comando: </p>
 
-# yarn start
+## yarn start
 <p> Se tudo tiver dado certo, irá abrir no navegador: http://localhost:3000 com a aplicação funcionando. </p>
 <p><strong>** Deixe o servidor do backend rodando antes de executar o comando acima!!!</strong></p>
    
