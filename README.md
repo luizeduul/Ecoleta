@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Ecoleta" src=".github/eco.png" width="250px" />
+  <img alt="Ecoleta" src="https://ik.imagekit.io/8qmbx6p1dq/Ecoleta/eco_-0zReOAPJ.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -30,20 +30,20 @@
 
 ## Web
 <p align="center">
-  <img alt="webversion" src=".github/frontend.gif"/>
+  <img alt="webversion" src="https://ik.imagekit.io/8qmbx6p1dq/Ecoleta/frontend_mfnd2Dgabn.gif"/>
 </p>
 
 ## Mobile
 <p align="center">
-  <img alt="mobile" src=".github/mobile.gif"/>
+  <img alt="mobile" src="https://ik.imagekit.io/8qmbx6p1dq/Ecoleta/mobile_rHHq_tmH5.gif"/>
 </p>
 
 ## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
-  - [Typescript](https://www.typescriptlang.org/): TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem.
-  - [Node JS](https://nodejs.org/en/): É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
-  - [React JS](https://reactjs.org): É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
-  - [React Native](https://facebook.github.io/react-native/): É uma biblioteca criada pelo Facebook, com base no ReactJS, para desenvolvimento de aplicações Mobile (Android e IOS utilizando) apenas JavaScript como linguagem. Diferencial para as outras libs do genero, é que ele compila código nativo (Java: Android e Swift: IOS) e não um aplicativo com uma página web.
-  - [Expo](https://docs.expo.io/): É uma ferramenta que permite desenvolver apps com React Native que permite fácil acesso as APIs nativas sem ter que instalar ou alterar qualquer código nativo no projeto.
+  - [Typescript](https://www.typescriptlang.org/) : TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem e alguns outros recursos a linguagem.
+  - [Node JS](https://nodejs.org/en/) : É um framework Javascript usado para construir aplicações web escaláveis de alta performance, sem depender do browser para a execução do código JS.
+  - [React JS](https://reactjs.org) : É uma biblioteca de código aberto, mantida por Facebook, outras empresas e uma comunidade de devs independentes. Utilizado para criação de interfaces de usuário.
+  - [React Native](https://facebook.github.io/react-native/) : É uma biblioteca criada pelo Facebook, com base no ReactJS, para desenvolvimento de aplicações Mobile (Android e IOS utilizando) apenas JavaScript como linguagem. Diferencial para as outras libs do genero, é que ele compila código nativo (Java: Android e Swift: IOS) e não um aplicativo com uma página web.
+  - [Expo](https://docs.expo.io/) : É uma ferramenta que permite desenvolver apps com React Native que permite fácil acesso as APIs nativas sem ter que instalar ou alterar qualquer código nativo no projeto.
 
 
