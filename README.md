@@ -27,7 +27,7 @@
 ---
 
 ## Como utilizar 
-<p>Faça um clone desse projeto em sua máquina</p><br>
+<p>Faça um clone desse projeto em sua máquina</p>
 <p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas abaixo</p>
 <p>
   <a href="https://github.com/luizeduul/Ecoleta/tree/master/backend" target="_blank" rel="noopener noreferrer">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
