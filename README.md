@@ -15,6 +15,8 @@
 - [Previews do projeto](#previews-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias)
 
+---
+
 ## Descrição
 <p>A aplicação Ecoleta, tem por objetivo o cadastro e identificação de empresas que possuem pontos de coleta de resíduos ("Pilhas, eletrônicos, lâmpadas, etc"). Permitindo a quem possua o aplicativo, ter acesso a localização dessas empresas, se tornando mais fácil encontrar e realizar o descarte desses materiais de forma correta.</p>
 <p>
@@ -22,14 +24,18 @@
 </p>
 <p>Lembre-se de ajustar os endereços de ip para o da sua máquina local.</p>
 
+---
+
 ## Como utilizar 
 <p>Faça um clone desse projeto em sua máquina</p><br>
-<p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas abaixo</p><br>
+<p>Abrir as pastas abaixo e fazer as instalações de acordo com as instruções que estão nos arquivos readme das pastas abaixo</p>
 <p>
   <a href="https://github.com/luizeduul/Ecoleta/tree/master/backend" target="_blank" rel="noopener noreferrer">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/luizeduul/Ecoleta/tree/master/frontend" target="_blank" rel="noopener noreferrer">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/luizeduul/Ecoleta/tree/master/mobile" target="_blank" rel="noopener noreferrer">Mobile</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
+
+---
 
 ## Previews do projeto
 
@@ -43,6 +49,8 @@
 <p align="center">
   <img alt="mobile" src="https://ik.imagekit.io/8qmbx6p1dq/Ecoleta/mobile_rHHq_tmH5.gif"/>
 </p>
+
+---
 
 ## Tecnologias
  Esse projeto foi desenvolvido com as seguintes tecnologias:
