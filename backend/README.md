@@ -12,7 +12,7 @@
   # npm -> npm install
   
 <p>Após completar toda a instalação, execute o comando: </p>
-<p><stron>yarn dev</strong>  para rodar o script de desenvolvimento.</p>
+<p><strong>yarn dev</strong>  para rodar o script de desenvolvimento.</p>
    
 <p>Também será necessário rodar as migrations para criar as tabelas da base de dados com o comando <strong> yarn knex:migrate </strong></p>
 <p>E popular a tabela de items com o comando: <strong> yarn knex:seed </strong></p>
